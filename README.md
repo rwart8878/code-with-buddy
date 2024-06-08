@@ -32,12 +32,7 @@ You may also see any lint errors in the console.
 * Whiteboard is also there to connect users through visualization.
 * Problem Statement Tab allow users to see a Specific Problem Statement to solve.
 
-## Screenshots
-* Home Screen: ![Home Screen](https://github.com/arnavsharma2711/Code-A-Thon-Programming-Pathshala/blob/main/Screenshots/Screen%20Recording.jpeg?raw=true "Home Screen")
-* Whiteboard: ![Whiteboard](https://github.com/arnavsharma2711/Code-A-Thon-Programming-Pathshala/blob/main/Screenshots/WhiteBoard.jpeg?raw=true " Whiteboard")
-* Problem Statements: ![Problem Statements](https://github.com/arnavsharma2711/Code-A-Thon-Programming-Pathshala/blob/main/Screenshots/Problem%20Satements.jpeg?raw=true "Problem Statements")
-* Screen Recorder Output : ![Screen Recorder Output](https://github.com/arnavsharma2711/Code-A-Thon-Programming-Pathshala/blob/main/Screenshots/Screen%20Recording%20Output.jpeg?raw=true "Screen Recorder Output")
-* User Video and Mic Off:![User Video and Mic Off](https://github.com/arnavsharma2711/Code-A-Thon-Programming-Pathshala/blob/main/Screenshots/Video%20Off.jpeg?raw=true "User Video and Mic Off")
+
 ## Future Scope of this project
 1. Adding functionally to add user problem statements.
 2. UI Fixes.

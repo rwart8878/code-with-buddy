@@ -1,11 +1,11 @@
 
-# Code-with-Companion
+# Code-with-Buddy
 
 > Tech Stack Used: React.js, Socket .io, Tailwind.css
 
 A website where users can share a special URL and invite other people to join them for a video chat. The website's built-in code editor also allows users to alter one another's code and compile it in several programming languages that may be saved. Users can also draw out their ideas using a whiteboard and they can record the entire session and store it in your downloads.
 ## Deployment
-https://code-with-companion-bice.vercel.app/
+code-buddy-two.vercel.app
 
 ## Prerequisite
 * You must have node.js installed in your system.
